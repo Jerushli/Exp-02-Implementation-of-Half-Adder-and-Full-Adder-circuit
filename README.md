@@ -61,17 +61,16 @@ assign sum=a^b^c;
 assign carry=((a&b)|(b&c)|(c&a));
 endmodule 
 ```
-### Output:
-![Screenshot (97)](https://github.com/Yuvakrishna0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/117915037/53b8df3f-d70a-4b1a-a5d4-8fc26e4b6f5a)
-
-![Screenshot 2023-09-01 090708](https://github.com/Yuvakrishna0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/117915037/349cce35-5201-4458-9523-ae40ddd047df)
-
 ### RTL:
 ![Screenshot (96)](https://github.com/Yuvakrishna0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/117915037/620eea87-19e8-4ddd-9f6b-f955ec1aee89)
 
 
 ![Screenshot 2023-09-01 090416](https://github.com/Yuvakrishna0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/117915037/2c12870a-1754-4391-9da5-b7b789c4cf7b)
 
+### Output:
+![Screenshot (97)](https://github.com/Yuvakrishna0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/117915037/53b8df3f-d70a-4b1a-a5d4-8fc26e4b6f5a)
+
+![Screenshot 2023-09-01 090708](https://github.com/Yuvakrishna0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/117915037/349cce35-5201-4458-9523-ae40ddd047df)
 
 ### TRUTH TABLE 
 ![Screenshot 2023-09-01 091842](https://github.com/Yuvakrishna0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/117915037/ef6e504b-7ec1-4024-9817-71d1025e7084)
